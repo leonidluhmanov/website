@@ -188,7 +188,7 @@ header.fixed #logo {
 
 #overview {
   float: left;
-  background: conic-gradient(blue, pink);
+  background: conic-gradient(brown, orange);
 
   background-blend-mode: multiply;
   background-color: #403f40;
