@@ -8,9 +8,9 @@
   "start_url": ".",
   "icons": [
     {
-      "src": "/icons/app-icon-96-96.png",
+      "src": "start.jpeg",
       "sizes": "96x96",
-      "type": "image/png"
+      "type": "image/jpeg"
     },
     {
       "src": "/icons/app-icon-144-144.png",
